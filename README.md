@@ -15,7 +15,7 @@ cd Linux-Post-Install-Scripts
 
 2. Make the Script Executable
 
-chmod +x linux-script-***-***.sh
+chmod +x linux-script-xxx-xxx.sh
 
 3. Run the Script
 
@@ -35,7 +35,7 @@ For Debian-based distros (Experimental):
 
 Notes
 
-Run as root: If you get permission errors, use sudo ./Linux-script-***-***.sh.
+Run as root: If you get permission errors, use sudo ./Linux-script-xxx-xxx.sh.
 Make sure you have git installed to clone the repo, You can install git by runing
 sudo apt install git
 sudo dnf install git
