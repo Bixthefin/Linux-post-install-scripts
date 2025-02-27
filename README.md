@@ -16,6 +16,7 @@ cd Linux-Post-Install-Scripts
 2. Make the Script Executable
 
 chmod +x linux-script-***-***.sh
+
 3. Run the Script
 
 Run the script that matches your Linux distribution:
