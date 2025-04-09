@@ -16,4 +16,4 @@ sudo apt install -y neofetch
 neofetch
 
 echo "All applications have been successfully installed!"
-echo "Thank you for using this Linux script from Bixthefin."
+echo "Thank you for using this Linux script from Bix."

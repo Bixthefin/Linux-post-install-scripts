@@ -15,4 +15,5 @@ sudo pacman -S --noconfirm neofetch
 neofetch
 
 echo "All applications have been successfully installed!"
-echo "Thank you for using this Linux script from Bixthefin."
+echo "Thank you for using this Linux script from Bix."
+echo "I use arch btw"
